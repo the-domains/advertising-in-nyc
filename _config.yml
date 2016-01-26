@@ -1,7 +1,7 @@
 name: Advertising in NYC
 favicon: null
 layout_spectrum: 0.5296773174777627
-typography_spectrum: 0.7578629958443344
+typography_spectrum: 0.87794
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.4919720026664436
+  brandStrength: 0.5625
   lightness: 0.7711357418447733
   saturation: 0.058211554773151875
   rhythmicContrast: 0.649190419819206
