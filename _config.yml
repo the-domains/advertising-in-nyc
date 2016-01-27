@@ -1,5 +1,8 @@
+name: Advertising in NYC
+favicon: null
+layout_spectrum: 0.81152
+typography_spectrum: 0.92864
 title: 'Advertising in NYC Creative, Design , Print, Website and Publishing. 718.749.3520'
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.469534
-  lightness: 0
-  brandStrength: 0.625
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  rhythmicContrast: 0.1612903
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Advertising in NYC
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.92864
-layout_spectrum: 0.81152
+  brandStrength: 0.1875
+  lightness: 0.5625
+  saturation: 0.5625
+  rhythmicContrast: 0.25
+purpose: []
